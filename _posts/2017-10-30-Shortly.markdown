@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-18
-img: cabin.png
+img: shortly.png
 alt: image-alt
 project-date: July 2016
 client: Surge
 category: Web Development
-description: describe project. links to articles <a href="http://www.kiro7.com/news/local/new-website-selling-unused-ferry-tickets/362473693">here</a> and <a href="http://www.vashonloop.com/article/discounted-ferry-passes-ferrytailcom">here</a>.
+description: Shortly is a link shortening app similar to <a href="https://bitly.com/">bitly</a>. Check it out <a href="https://shrtly.herokuapp.com">here</a>. On github there are a few Shortly related projects of mine. <a href="https://github.com/evanhackett/shortly-deploy">deploy</a>, <a href="https://github.com/evanhackett/shortly-angular">angular</a> and <a href="https://github.com/evanhackett/shortly-express">express</a>.
 ---

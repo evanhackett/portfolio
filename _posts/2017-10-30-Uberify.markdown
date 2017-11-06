@@ -2,10 +2,10 @@
 layout: default
 modal-id: 7
 date: 2014-07-18
-img: cabin.png
+img: uberify.png
 alt: image-alt
 project-date: July 2016
 client: Surge
 category: Web Development
-description: describe project. links to articles <a href="http://www.kiro7.com/news/local/new-website-selling-unused-ferry-tickets/362473693">here</a> and <a href="http://www.vashonloop.com/article/discounted-ferry-passes-ferrytailcom">here</a>.
+description: Uberify is a Chrome extension that crawls web pages and creates buttons out of addresses to request a ride via Uber. This project won first place in an Uber sponsored hackathon. Read more about the project <a href="http://uberify.github.io/uberify/">here</a>.
 ---

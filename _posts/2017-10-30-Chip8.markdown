@@ -2,10 +2,10 @@
 layout: default
 modal-id: 3
 date: 2014-07-18
-img: cabin.png
+img: chip8.png
 alt: image-alt
 project-date: July 2016
 client: Surge
 category: Web Development
-description: describe project. links to articles <a href="http://www.kiro7.com/news/local/new-website-selling-unused-ferry-tickets/362473693">here</a> and <a href="http://www.vashonloop.com/article/discounted-ferry-passes-ferrytailcom">here</a>.
+description: The Chip8 is an interpreter for a programming language meant to make simple video games. I have always been interested in emulators since I first played with them as a child. This was my first foray into implementing one!  For anyone interested in getting started with emulators, the chip-8 system is commonly recommended as a good place to start. <a href="http://evanhackett.com/chip8/">Click here to play.</a> Or <a href="https://github.com/evanhackett/chip8">view code on github.</a>
 ---

@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2014-07-18
-img: cabin.png
+img: TheseusVR.png
 alt: image-alt
 project-date: July 2016
 client: Surge
 category: Web Development
-description: describe project. links to articles <a href="http://www.kiro7.com/news/local/new-website-selling-unused-ferry-tickets/362473693">here</a> and <a href="http://www.vashonloop.com/article/discounted-ferry-passes-ferrytailcom">here</a>.
+description: TheseusVR was the final project that my teammates and I completed while attending Hack Reactor. <a href="http://gloryandcode.github.io/Theseus/">TheseusVR</a> is a platform which provides an operating environment for computing in a VR space, allowing users to spin up virtual screens that run 3rd party applications inside of the VR environment. Check out an article about TheseusVR <a href="https://www.hackreactor.com/blog/virtual-reality-platform-built-by-remote-students-opens-possibilities-for-vr-developers">from the Hack Reactor blog</a> to learn more. You may notice in the screenshot that my Chip-8 emulator is running inside the Theseus environment!
 ---

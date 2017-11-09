@@ -2,10 +2,10 @@
 layout: default
 modal-id: 8
 date: 2014-07-18
-img: cabin.png
+img: watchout.png
 alt: image-alt
 project-date: July 2016
 client: Surge
 category: Web Development
-description: describe project. links to articles <a href="http://www.kiro7.com/news/local/new-website-selling-unused-ferry-tickets/362473693">here</a> and <a href="http://www.vashonloop.com/article/discounted-ferry-passes-ferrytailcom">here</a>.
+description: Watchout is an "avoider" style game created with D3.js (yes I know D3 isn't usually used to make games). Players drag a ball around trying not to get hit by shurikens.  <a href="http://evanhackett.com/watchout/">Play Watchout</a> or check out the code <a href="https://github.com/evanhackett/watchout">on github</a>.
 ---

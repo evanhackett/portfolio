@@ -34,8 +34,8 @@ color:
 footer:
   copyright: Evan Hackett
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Social
+  credits: Other
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -49,7 +49,7 @@ address:
   - line: Portland, Oregon
 
 # Credits content
-credits: 'This site was created using the open source Jekyll theme <a href="https://github.com/jeromelachaud/freelancer-theme">freelancer</a>.'
+credits: 'Be sure to check out <a href="http://evanhackett.com/">my blog</a>.'
 
 # Build settings
 markdown: kramdown

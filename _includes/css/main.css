@@ -196,7 +196,7 @@ section.success {
 
 #portfolio .portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -453,4 +453,30 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.flexMe {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flexMe .portfolio-item {
+    width: 350px;
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding-bottom: 1em;*/
+    overflow: hidden;
+}
+
+.flexMe .portfolio-item img{
+    width: 100%;
+    height: auto;
+}
+
+div.row.flexMe::before {
+  display: none;
 }
